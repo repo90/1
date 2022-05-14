@@ -34,21 +34,21 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-  color: #931a33;
-  font-size: 48px;
+  color: #ffffff;
+  font-size: 45px;
   line-height: normal;
 }
 
 h2 {
-  color: #0B0B0B;
-  font-size: 25px;
+  color: #2b2b2b;
+  font-size: 35px;
   line-height: 52px;
   margin-top: 0px;
 }
 
 h3 {
-  color: #0B0B0B;
-  font-size: 26px;
+  color: #282828;
+  font-size: 16px;
   line-height: 32px;
   letter-spacing: 6px;
   text-transform: uppercase;
@@ -82,7 +82,7 @@ p {
 -----------------------------------------*/
 
 .section-btn {
-  background: #931a33;
+  background: #000000;
   border: none;
   border-radius: 50px;
   color: #f0f0f0;
@@ -232,7 +232,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  Service section           
+  Service section              
 -----------------------------------------*/
 
 .service-thumb {
@@ -288,7 +288,7 @@ a:hover, a:active, a:focus {
 }
 
 .about-image-thumb .social-icon li a {
-  background: #e9ebee;
+  background: #f0f0f0;
 }
 
 .about-thumb {
@@ -389,11 +389,9 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 footer {
-  background: #7d1635;
+  background: #7682cc;
   text-align: center;
-  padding: 0px 0;
-  height: 0px;
-  margin-top: 24px;
+  padding: 120px 0;
 }
 
 footer p {
@@ -440,7 +438,7 @@ footer p {
   background: #000000;
   color: #ffffff;
   transform: scale(1.1);
-  top: -18px;
+  top: -5px;
 }
 
 
